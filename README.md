@@ -10,6 +10,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+计算机不是让人学的玩意，但是短期他对人类很有帮助
+
 <!---
 TingyuanZhang1208/TingyuanZhang1208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
